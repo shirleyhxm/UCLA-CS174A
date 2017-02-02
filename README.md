@@ -2,6 +2,9 @@
 
 *CS174A Winter 2017 - Shirley Xuemin He*
 
+### Files
+All five source files MV.js, InitShaders.js, webgl-utils.js, cube.js, and cube.html must be located in the same folder for the program to run properly!
+
 ### Canvas and Shaders
 
  * canvas size: 960 x 540
